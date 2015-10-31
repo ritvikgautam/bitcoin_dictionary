@@ -1,0 +1,7 @@
+== Confirmed Transaction
+
+link:../t/Transaction.asciidoc[Transaction] that has been included in the link:../b/Blockchain.asciidoc[blockchain]. Probability of link:../t/Transaction.asciidoc[transaction] being rejected is measured in a number of confirmations.
+
+=== See also
+
+link:../c/Confirmation_Number.asciidoc[Confirmation Number].
