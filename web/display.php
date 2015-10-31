@@ -2,7 +2,13 @@
 <html lang="en">
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <title>Bitcoin Dictionary</title>
+  <title>
+      <?php 
+        $titleword = $_GET['word'];
+        $titleword = str_replace("_", " ", $titleword);
+        $titleword = ucwords($titleword);
+        echo $titleword . " - ";
+      ?>Bitcoin Dictionary</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" type="text/css" href="css/style.css">
   <link href='http://fonts.googleapis.com/css?family=Open+Sans:300,600' rel='stylesheet' type='text/css'>
