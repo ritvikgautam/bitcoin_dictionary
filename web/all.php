@@ -67,7 +67,7 @@
   <div class="wrap">
     <div class = "content">
         <div class="footer">
-          <p class="copy">&#169; 2015 ฿itcoin Dictionary. Developed by<a href="http://ritvikgautam.in" target="_blank"> Ritvik Gautam</a>.</p>
+          <p class="copy">&#169; 2015 ฿itcoin Dictionary. Developed by<a href="http://ritvikgautam.in" target="_blank"> Ritvik Gautam</a>. <a href="http://blog.ritvikgautam.in/2015/10/31/introducing-bitcoin-dictionary/" target="_blank">Read More.</a></p>
         </div>
     </div>
   </div>
